@@ -7,4 +7,4 @@ exec insertUser @DNI=45845963,
 @fecha_nacimiento='2001-11-16',
 @genero = 'femenino'
 
-exec getUserbyId @id_user = 4
+exec getUserbyId @id_user = 28
